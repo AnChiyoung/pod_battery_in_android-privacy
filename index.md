@@ -22,7 +22,7 @@ PodBattery(이하 "앱")는 사용자의 개인정보를 수집하지 않습니�
 수집하는 정보가 없으므로 제3자에게 제공하는 정보도 없습니다.
 
 ## 문의
-개인정보 관련 문의: hive.goodluckcy@gmail.com
+개인정보 관련 문의: dev.goodluckcy@gmail.com
 
 ---
 
@@ -36,4 +36,4 @@ PodBattery ("the app") does not collect any personal information.
 - The Bluetooth (Nearby devices) permission is used only to read the battery level of connected wireless earbuds. Battery levels and the device name are used on the phone to show a notification and are never sent off the device.
 - The notification permission is used to show battery levels on the lock screen and in the notification shade.
 
-Contact: hive.goodluckcy@gmail.com
+Contact: dev.goodluckcy@gmail.com
